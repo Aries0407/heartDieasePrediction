@@ -1,1 +1,2 @@
 # heartDieasePrediction
+基于KNN算法的心脏病预测的小案例
